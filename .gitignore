@@ -1,0 +1,7 @@
+*.exe
+*.o
+build/
+.vscode/
+*.swp
+open62541.c
+open62541.h
