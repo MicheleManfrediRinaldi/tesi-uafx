@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/uafx_server.dir/server.c.o CMakeFiles/uafx_server.dir/open62541.c.o CMakeFiles/uafx_server.dir/types_di_generated.c.o CMakeFiles/uafx_server.dir/types_uafx_data_generated.c.o CMakeFiles/uafx_server.dir/types_uafx_ac_generated.c.o CMakeFiles/uafx_server.dir/my_uafx_model.c.o -o uafx_server  -lpthread 

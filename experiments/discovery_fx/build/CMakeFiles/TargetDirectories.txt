@@ -1,0 +1,3 @@
+/home/miche/tesi-uafx/experiments/discovery_fx/build/CMakeFiles/uafx_server.dir
+/home/miche/tesi-uafx/experiments/discovery_fx/build/CMakeFiles/edit_cache.dir
+/home/miche/tesi-uafx/experiments/discovery_fx/build/CMakeFiles/rebuild_cache.dir

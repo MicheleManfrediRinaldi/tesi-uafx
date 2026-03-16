@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+77bafe9dd8e8ca8d67e65680aca83a70 my_uafx_model.c
+a46b51913dde9a9e08cf8bf770de5ae2 types_di_generated.c
+d569e35af8b661e65b84cd3216458286 types_uafx_ac_generated.c
+611098b6cff241c9d8e2108f2bc5efa4 types_uafx_data_generated.c
